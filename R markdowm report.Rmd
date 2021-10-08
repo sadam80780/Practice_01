@@ -2,7 +2,7 @@
 title: "Practice 1"
 author: "SADDAM"
 date: "10/8/2021"
-output: github_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
